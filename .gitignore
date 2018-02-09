@@ -1,0 +1,4 @@
+# From the theme
+node_modules/
+package-lock.json
+npm-debug.log
